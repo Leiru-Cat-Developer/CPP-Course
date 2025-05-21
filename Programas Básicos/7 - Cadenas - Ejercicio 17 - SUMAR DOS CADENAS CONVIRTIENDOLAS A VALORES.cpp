@@ -1,19 +1,19 @@
 /*
-	PEDIR AL USUARIO 2 CADENAS DE CARACTERES DE NÚMEROS, UNO ENTERO Y OTRO REAL,
+	PEDIR AL USUARIO 2 CADENAS DE CARACTERES DE Nï¿½MEROS, UNO ENTERO Y OTRO REAL,
 	CONVERTIRLOS A SUS RESPECTIVOS VALORES Y POR ULTIMO SUMARLOS
 */
-#include<iostream>  //LIBRERÍA ESTÁNDAR [LECTURA - SALIDA]
-#include<string.h>  //LIBRERÍA PARA CADENAS
-#include<math.h>    //LIBRERÍA DE MATEMÁTICAS
-#include<stdlib.h>  //LIBRERÍA PARA PAUSAS 1 [SYSTEM("PAUSE")]
-#include<conio.h>   //LIBRERÍA PARA PAUSAS 2 [GETCH()]
+#include<iostream>  //LIBRERï¿½A ESTï¿½NDAR [LECTURA - SALIDA]
+#include<string.h>  //LIBRERï¿½A PARA CADENAS
+#include<math.h>    //LIBRERï¿½A DE MATEMï¿½TICAS
+#include<stdlib.h>  //LIBRERï¿½A PARA PAUSAS 1 [SYSTEM("PAUSE")]
+#include<conio.h>   //LIBRERï¿½A PARA PAUSAS 2 [GETCH()]
 using namespace std;
 int main(){
-	setlocale(LC_CTYPE, "Spanish");	//CONFIGURACIÓN DE LENGUAJE A ESPAÑOL [´,Ñ,? ... ETC]
+	setlocale(LC_CTYPE, "Spanish");	//CONFIGURACIï¿½N DE LENGUAJE A ESPAï¿½OL [ï¿½,ï¿½,? ... ETC]
 	char cadenaNumeroEntero[100];
 	char cadenaNumeroFlotante[100];
-	cout<<"DIGITE UN NÚMERO ENTERO: ";		cin.getline(cadenaNumeroEntero,100,'\n');
-	cout<<"DIGITE UN NÚMERO FLOTANTE: ";	cin.getline(cadenaNumeroFlotante,100,'\n');
+	cout<<"DIGITE UN Nï¿½MERO ENTERO: ";		cin.getline(cadenaNumeroEntero,100,'\n');
+	cout<<"DIGITE UN Nï¿½MERO FLOTANTE: ";	cin.getline(cadenaNumeroFlotante,100,'\n');
 	//GUARDAMOS LOS VALORES PARA REALIZAR LA SUMA CON LAS FUNCIONES NECESARIAS
 	int numeroEntero = atoi(cadenaNumeroEntero);
 	float numeroReal = atof(cadenaNumeroFlotante), suma = numeroEntero + numeroReal;
