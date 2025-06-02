@@ -5,6 +5,22 @@
     {
       "AbsoluteMoniker": "D:0:0:{EEDB627F-BDAB-4536-A00E-1AA9D21082A9}|Test - OPENGL.vcxproj|C:\\Users\\LENOVO\\Desktop\\Progreso General\\Trabajos de Inform\u00E1tica\\C\u002B\u002B\\OPENGL\\Test - OPENGL\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{EEDB627F-BDAB-4536-A00E-1AA9D21082A9}|Test - OPENGL.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEDB627F-BDAB-4536-A00E-1AA9D21082A9}|Test - OPENGL.vcxproj|C:\\Users\\LENOVO\\Desktop\\Progreso General\\Trabajos de Inform\u00E1tica\\C\u002B\u002B\\OPENGL\\Test - OPENGL\\VAO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EEDB627F-BDAB-4536-A00E-1AA9D21082A9}|Test - OPENGL.vcxproj|solutionrelative:VAO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEDB627F-BDAB-4536-A00E-1AA9D21082A9}|Test - OPENGL.vcxproj|C:\\Users\\LENOVO\\Desktop\\Progreso General\\Trabajos de Inform\u00E1tica\\C\u002B\u002B\\OPENGL\\Test - OPENGL\\VAO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EEDB627F-BDAB-4536-A00E-1AA9D21082A9}|Test - OPENGL.vcxproj|solutionrelative:VAO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEDB627F-BDAB-4536-A00E-1AA9D21082A9}|Test - OPENGL.vcxproj|C:\\Users\\LENOVO\\Desktop\\Progreso General\\Trabajos de Inform\u00E1tica\\C\u002B\u002B\\OPENGL\\Test - OPENGL\\EBO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EEDB627F-BDAB-4536-A00E-1AA9D21082A9}|Test - OPENGL.vcxproj|solutionrelative:EBO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEDB627F-BDAB-4536-A00E-1AA9D21082A9}|Test - OPENGL.vcxproj|C:\\Users\\LENOVO\\Desktop\\Progreso General\\Trabajos de Inform\u00E1tica\\C\u002B\u002B\\OPENGL\\Test - OPENGL\\EBO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EEDB627F-BDAB-4536-A00E-1AA9D21082A9}|Test - OPENGL.vcxproj|solutionrelative:EBO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,9 +40,61 @@
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Progreso General\\Trabajos de Inform\u00E1tica\\C\u002B\u002B\\OPENGL\\Test - OPENGL\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-12T21:30:09.539Z",
+              "WhenOpened": "2025-05-23T23:00:14.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VAO.cpp",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Progreso General\\Trabajos de Inform\u00E1tica\\C\u002B\u002B\\OPENGL\\Test - OPENGL\\VAO.cpp",
+              "RelativeDocumentMoniker": "VAO.cpp",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Progreso General\\Trabajos de Inform\u00E1tica\\C\u002B\u002B\\OPENGL\\Test - OPENGL\\VAO.cpp",
+              "RelativeToolTip": "VAO.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-23T22:58:25.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VAO.h",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Progreso General\\Trabajos de Inform\u00E1tica\\C\u002B\u002B\\OPENGL\\Test - OPENGL\\VAO.h",
+              "RelativeDocumentMoniker": "VAO.h",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Progreso General\\Trabajos de Inform\u00E1tica\\C\u002B\u002B\\OPENGL\\Test - OPENGL\\VAO.h",
+              "RelativeToolTip": "VAO.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-23T22:57:47.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EBO.cpp",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Progreso General\\Trabajos de Inform\u00E1tica\\C\u002B\u002B\\OPENGL\\Test - OPENGL\\EBO.cpp",
+              "RelativeDocumentMoniker": "EBO.cpp",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Progreso General\\Trabajos de Inform\u00E1tica\\C\u002B\u002B\\OPENGL\\Test - OPENGL\\EBO.cpp",
+              "RelativeToolTip": "EBO.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-23T22:57:06.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EBO.h",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Progreso General\\Trabajos de Inform\u00E1tica\\C\u002B\u002B\\OPENGL\\Test - OPENGL\\EBO.h",
+              "RelativeDocumentMoniker": "EBO.h",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Progreso General\\Trabajos de Inform\u00E1tica\\C\u002B\u002B\\OPENGL\\Test - OPENGL\\EBO.h",
+              "RelativeToolTip": "EBO.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-23T22:56:43.706Z",
               "EditorCaption": ""
             }
           ]
